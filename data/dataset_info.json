@@ -71,6 +71,12 @@
     "hf_hub_url": "JosephusCheung/GuanacoDataset",
     "ms_hub_url": "AI-ModelScope/GuanacoDataset"
   },
+  "aya_tr": {
+    "hf_hub_url": "eren23/aya_dataset_tr"
+  },
+  "instruct_tr": {
+    "hf_hub_url": "eren23/turkish_instructions_alpaca_columns"
+  },
   "belle_2m": {
     "hf_hub_url": "BelleGroup/train_2M_CN",
     "ms_hub_url": "AI-ModelScope/train_2M_CN"
